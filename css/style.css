@@ -572,9 +572,14 @@ body {
 /*         service        */
 /*------------------------*/
 
+.service {
+
+}
 
 .service-content{
   padding-bottom: 0;
+  width:90%;
+  margin:0 auto;
 }
 
 .service-img {
@@ -615,4 +620,11 @@ body {
 }
 
 
+/*------------------------*/
+/*        footer          */
+/*------------------------*/
+
+footer .header-logo{
+  margin:0 auto;
+}
 }
