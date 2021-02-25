@@ -573,7 +573,7 @@ body {
 /*------------------------*/
 
 .service {
-  padding-bottom:10%;
+  padding-bottom:5%;
 }
 
 .service-content{
@@ -593,7 +593,8 @@ body {
   left: 0;
   background: #fff;
   width: 100%;
-  padding: 5% 10% 20% 10%;
+  padding: 5% 10% 5% 10%;
+  margin-bottom:10%;
 }
 
 
